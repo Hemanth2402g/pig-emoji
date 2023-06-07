@@ -1,0 +1,129 @@
+.ears{
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+    margin: auto;
+    position: relative;  
+}
+#lear{
+    height: 100px;
+    width: 70px;
+    background-color: pink;
+    border-top-left-radius: 999px;
+    border-top-right-radius: 999px;
+    
+    margin-top: 10%; 
+    border: 2px solid black;
+
+}
+#rear{
+    height: 100px;
+    width: 70px;
+    background-color: pink;
+    border-top-left-radius: 999px;
+    border-top-right-radius: 999px;
+    margin-top: 10%;
+    border: 2px solid black;
+    
+}
+.face{
+    height: 200px;
+    width: 200px;
+    background-color:pink;
+    border-radius:80%;
+    margin: auto;
+    margin-top:18%;
+    border: 2px solid black;
+    position: absolute;
+    
+}
+
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    width: 200px;
+    margin-top: 20%;
+    
+    
+}
+.leye{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border-radius: 50%;
+    
+}
+#lbeye{
+    height: 20px;
+    margin-top: 30%;
+    margin-left: 25%;
+    width: 20px;
+    background-color: black;
+    border-radius: 50% ;
+
+}
+#rbeye{
+    height: 20px;
+    margin-top: 30%;
+    margin-left: 25%;
+    width: 20px;
+    background-color: black;
+    border-radius: 50% ;
+}
+
+.reye{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border-radius: 50%;
+    
+}
+
+.mouth{
+    height: 50px;
+    width: 80px;
+    background-color: rgb(242, 16, 16);
+    position: absolute;
+    border: 2px solid black;
+    margin-top: 60%;
+    margin-left: 28%;
+    border-top-left-radius: 999px;
+    border-top-right-radius: 999px;
+    border-bottom-left-radius: 999px;
+    border-bottom-right-radius: 999px;
+    
+    border: 2px solid black;
+}
+.nose{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80px;
+    margin: auto;
+    
+    position: relative; 
+}
+#nosel{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(20, 13, 17);
+    margin-left: 5%;
+    margin-top: 15%;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    
+}   
+#noser{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(20, 13, 17);
+    margin-left: 5%;
+    margin-top: 15%;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    
+}
